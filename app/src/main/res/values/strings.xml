@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bombeiros MG - Hidrantes</string>
+    <string name="nBm">Nº BM</string>
+    <string name="senha">Senha</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
